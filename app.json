@@ -1,14 +1,14 @@
 {
   "expo": {
-    "name": "urlShort",
-    "slug": "urlShort",
+    "name": "URL Shortener",
+    "slug": "urlShortener",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#ffd6d6"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -17,13 +17,20 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.helpinvest.helpinvestapp",
+      "buildNumber": "1.0.0"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
-      }
+        "backgroundColor": "#FFF"
+      },
+      "config": {
+        "googleMobileAdsAppId": "ca-app-pub-3737795788074947~5683150838"
+      },
+      "package": "com.helpinvest.helpinvestapp",
+      "versionCode": 1
     },
     "web": {
       "favicon": "./assets/favicon.png"
