@@ -8,7 +8,7 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffd6d6"
+      "backgroundColor": "#FFF"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -18,7 +18,7 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.helpinvest.helpinvestapp",
+      "bundleIdentifier": "com.urlshortener.urlshortenerapp",
       "buildNumber": "1.0.0"
     },
     "android": {
@@ -29,7 +29,7 @@
       "config": {
         "googleMobileAdsAppId": "ca-app-pub-3737795788074947~5683150838"
       },
-      "package": "com.helpinvest.helpinvestapp",
+      "package": "com.urlshortener.urlshortenerapp",
       "versionCode": 1
     },
     "web": {
