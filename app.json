@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "URL Shortener",
+    "name": "Easy URL Shortener",
     "slug": "urlShortener",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
@@ -19,18 +19,18 @@
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.urlshortener.urlshortenerapp",
-      "buildNumber": "1.0.0"
+      "buildNumber": "1.1.0"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFF"
+        "backgroundColor": "#1076F7"
       },
       "config": {
         "googleMobileAdsAppId": "ca-app-pub-3737795788074947~5683150838"
       },
       "package": "com.urlshortener.urlshortenerapp",
-      "versionCode": 1
+      "versionCode": 2
     },
     "web": {
       "favicon": "./assets/favicon.png"
