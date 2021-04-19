@@ -2,7 +2,7 @@
   "expo": {
     "name": "Easy URL Shortener",
     "slug": "urlShortener",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
@@ -30,7 +30,7 @@
         "googleMobileAdsAppId": "ca-app-pub-3737795788074947~5683150838"
       },
       "package": "com.urlshortener.urlshortenerapp",
-      "versionCode": 2
+      "versionCode": 3
     },
     "web": {
       "favicon": "./assets/favicon.png"
