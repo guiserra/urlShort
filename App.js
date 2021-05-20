@@ -14,7 +14,7 @@ export default function App() {
 
   useEffect(() => {
     async function loadAd() {
-      await AdMobInterstitial.setAdUnitID('ca-app-pub-3737795788074947/9477736245');
+      await AdMobInterstitial.setAdUnitID('ca-app-pub-9728868475893671/4626971456');
       InterstitialAd()
     }
     loadAd();
