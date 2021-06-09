@@ -30,7 +30,7 @@
         "googleMobileAdsAppId": "ca-app-pub-4162025603789343~3336152078"
       },
       "package": "com.urlshortener.urlshortenerapp",
-      "versionCode": 4
+      "versionCode": 5
     },
     "web": {
       "favicon": "./assets/favicon.png"
