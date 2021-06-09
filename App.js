@@ -117,7 +117,7 @@ export default function App() {
       <View style={{ justifyContent: 'center', alignItems: 'center' }}>
         <AdMobBanner
           bannerSize="smartBannerPortrait"
-          adUnitID={"ca-app-pub-3737795788074947/5108435769"}
+          adUnitID={"ca-app-pub-4162025603789343/8688303685"}
           servePersonalizedAds={true}
         />
       </View>
